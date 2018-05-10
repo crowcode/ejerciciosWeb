@@ -6,3 +6,29 @@ body {
 h1 {
     color: brown;
 }
+/*Estilo ejercicio2*/
+h3{
+    margin-left:50%;
+}
+
+figure{
+    width: 16.3%;
+    float: left;
+}
+.imgSide{
+    background-color: #ffffff;
+    /*border: thin silver solid;*/
+    border:#717c7e solid;
+    padding:0.3%;
+}
+figcaption{
+    font-style:italic;
+    text-align: center;
+}
+.gatoDescr{
+    width:75%;
+    float:left;
+}
+.imgGif{
+    margin-left: 40%;
+}
