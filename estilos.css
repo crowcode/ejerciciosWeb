@@ -1,3 +1,7 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 body {
     padding: 50px;
     background-color: beige;
@@ -62,12 +66,34 @@ figcaption{
     border-radius:50%;
     margin-left: 5%;
     float:left;
+    line-height:200px;
   
 }
 .numero{
     color:white;
     text-align: center;
     font-size: 100px;
-    padding: 18%;
+  
 }
 /*Fin ejer4*/
+/*Estilo ejercicio 5*/
+.franja{
+    height: 40px;
+    width: 100%;
+    color: white;
+    left: 0;
+    line-height: 50px;
+    position:fixed;
+    text-align: center;
+    text-decoration: underline;
+    
+}
+.head{
+    top: 0;
+    background-color: blue;
+}
+.footer{
+    background-color: red;
+    bottom: 0;
+    
+}
