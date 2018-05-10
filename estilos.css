@@ -47,3 +47,27 @@ figcaption{
     font-weight: bold; 
     font-style: italic;
 }
+/*Fin ejer3*/
+/*Estilo ejercicio4 */
+.wrapper{
+    margin-left: 20%;
+    width: 70%;
+    background-color:white;
+    
+}
+.circulo{
+    background-color:blue;
+    width: 200px;
+    height: 200px;
+    border-radius:50%;
+    margin-left: 5%;
+    float:left;
+  
+}
+.numero{
+    color:white;
+    text-align: center;
+    font-size: 100px;
+    padding: 18%;
+}
+/*Fin ejer4*/
