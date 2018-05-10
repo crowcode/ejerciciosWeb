@@ -31,3 +31,19 @@ figcaption{
 .imgGif{
     margin-left: 40%;
 }
+/*Fin ejer2*/
+/*Estilo ejercicio 3*/
+.titulo-blue{
+    color: rgb(0, 183, 255);
+    font-size: 30px;
+    font-style: italic;
+}
+.texto-blue{
+    color:blue;
+    font-size: 15px;
+   
+}
+.destacado{
+    font-weight: bold; 
+    font-style: italic;
+}
