@@ -76,7 +76,7 @@ figcaption{
   
 }
 /*Fin ejer4*/
-/*Estilo ejercicio 5*/
+/*Estilo ejercicio 4b*/
 .franja{
     height: 40px;
     width: 100%;
@@ -97,3 +97,32 @@ figcaption{
     bottom: 0;
     
 }
+/*Fin ejer4b*/
+/*Ejercicio 5*/
+.contIcon{
+    margin-top:1%;
+    line-height: 70px;
+}
+.iconos{
+    color:white;
+    width:70px;
+    height:70px;
+    margin-left:1%;
+    text-align:center;
+    padding-top:1%;
+    
+
+}
+.azul{
+    background-color: blue;
+}
+.verde{
+    background-color: green;
+}
+.rojo{
+    background-color: red;
+}
+.negro{
+    background-color: black;
+}
+/*Fin ejerc5*/
